@@ -1,0 +1,16 @@
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.exe
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.deps.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.runtimeconfig.dev.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\bin\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.csprojAssemblyReference.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\ProjetoFinalJogo.fundo.resources
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.Properties.Resources.resources
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.csproj.GenerateResource.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfoInputs.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.AssemblyInfo.cs
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.csproj.CoreCompileInputs.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.dll
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.pdb
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\ProjetoFinalJogo\obj\Debug\netcoreapp3.1\projetofinal.genruntimeconfig.cache

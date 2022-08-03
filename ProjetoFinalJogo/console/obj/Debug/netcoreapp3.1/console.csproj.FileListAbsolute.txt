@@ -1,0 +1,17 @@
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.csprojAssemblyReference.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\ProjetoFinalJogo.exe
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.exe
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.deps.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.dll
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\console.pdb
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\ProjetoFinalJogo.dll
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\bin\Debug\netcoreapp3.1\ProjetoFinalJogo.pdb
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.csproj.CopyComplete
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.dll
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.pdb
+C:\Users\Verad\Documents\Projetos\ProjetoFinalJogo\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache
